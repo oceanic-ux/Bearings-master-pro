@@ -1,0 +1,48 @@
+{
+  "name": "Bearing Master Pro",
+  "short_name": "Bearing Master",
+  "description": "An interactive compass bearing game for classroom and training use. Spin the needle, stop at the target bearing, score points for accuracy.",
+  "start_url": "/Bearings-master-pro/Bearings_Game_Oceanic.html",
+  "scope": "/Bearings-master-pro/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#020408",
+  "theme_color": "#0f172a",
+  "lang": "en",
+  "categories": ["education", "games"],
+  "icons": [
+    {
+      "src": "Ico_ne_rele_vements_192.png",
+      "sizes": "190x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "Ico_ne_rele_vements_300.png",
+      "sizes": "297x300",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "Ico_ne_rele_vements_512.png",
+      "sizes": "507x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "Ico_ne_Rele_vements.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Bearing Master Pro – Game screen"
+    }
+  ]
+}
