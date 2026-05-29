@@ -13,19 +13,19 @@
   "icons": [
     {
       "src": "Ico_ne_rele_vements_192.png",
-      "sizes": "190x192",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "src": "Ico_ne_rele_vements_300.png",
-      "sizes": "297x300",
+      "sizes": "300x300",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "src": "Ico_ne_rele_vements_512.png",
-      "sizes": "507x512",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
