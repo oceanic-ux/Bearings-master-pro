@@ -1,6 +1,6 @@
 {
-  "name": "Bearing Master Pro",
-  "short_name": "Bearing Master",
+  "name": "Bearings Master Pro",
+  "short_name": "Bearings Master",
   "description": "An interactive compass bearing game for classroom and training use. Start the needle, stop at the target bearing, score points for accuracy.",
   "start_url": "/Bearings-master-pro/Bearings_Game_Oceanic.html",
   "scope": "/Bearings-master-pro/",
